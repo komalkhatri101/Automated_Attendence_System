@@ -1,1 +1,2 @@
 # Automated_Attendence_System
+#This project is an AI-powered face recognition system designed for automated attendance tracking. It detects and identifies faces in images using the face_recognition library. The system extracts face encodings from a dataset of labeled images and compares them to faces detected in test images, enabling automated recognition. The solution is particularly useful for large-scale educational institutions, ensuring efficient and accurate attendance marking without manual intervention.
